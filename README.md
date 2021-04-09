@@ -35,7 +35,7 @@ a problem solver and an independent employee with great attention to detail.
   
 ### Where To Find Me:
 <p align="left">
-<a herf="https://www.linkedin.com/in/nisan-ayash/" target="_blank">
+<a herf="https://www.linkedin.com/in/nisan-ayash/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a herf="https://www.facebook.com/nisanayash" target="_blank">
