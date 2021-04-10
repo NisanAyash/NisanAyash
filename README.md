@@ -34,7 +34,7 @@ a problem solver and an independent employee with great attention to detail.
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 <p>
   
- ### My Next Challenge
+ ### My Next Challenges
 <p align="left">
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
